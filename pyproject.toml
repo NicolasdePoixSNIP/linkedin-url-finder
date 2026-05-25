@@ -1,6 +1,0 @@
-[tool.vercel]
-entrypoint = "api/search.handler"
-
-[project]
-name = "linkedin-url-finder"
-version = "0.1.0"
