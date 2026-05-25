@@ -1,5 +1,4 @@
-Voici le contenu complet de api/search.js :
-javascriptconst https = require('https');
+const https = require('https');
 
 const SERPER_KEY = process.env.SERPER_KEY || "8cf636c6d6a5485b7e87f40c8ee0f8c9053a2edf";
 
